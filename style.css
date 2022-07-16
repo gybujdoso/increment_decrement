@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.wrap {
+    background: #8b0000;
+    padding: 20px;
+    text-align: center;
+}
+
+.wrap h3 {
+    background: #0000ff;
+    padding: 5px;
+    color: #ffffff;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#plus {
+    color: #0000ff;
+}
+
+#minus {
+    color: #8b0000;
+}
+
+#reset {
+    color: #ff8000;
+}
